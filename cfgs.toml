@@ -1,0 +1,10 @@
+name = "kokplatta"
+version = "1.2.3"
+# comment that should not be read
+#edition = "2021"
+
+[header]
+value_int=2
+value_int2=3
+#value_str="string test"
+
